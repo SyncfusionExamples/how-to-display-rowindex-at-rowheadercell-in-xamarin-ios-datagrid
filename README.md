@@ -35,8 +35,10 @@ Refer to the following link for more details:
 
 2. Register the license key in FinishedLaunching override method of AppDelegate.cs.
 
+
       public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
       {
+      
       	    //Register Syncfusion license
       	    Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
       
