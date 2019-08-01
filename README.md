@@ -33,12 +33,10 @@ Refer to the following link for more details:
 
    *Note: If you download the sample using the "Download ZIP" option, right-click it, select Properties, and then select Unblock.*
 
-2. Register the license key in FinishedLaunching override method of AppDelegate.cs
-
+2. Register the license key in FinishedLaunching override method of AppDelegate.cs.
 
       public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)      
-      {
-      
+      {      
       	//Register Syncfusion license
       	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
       
