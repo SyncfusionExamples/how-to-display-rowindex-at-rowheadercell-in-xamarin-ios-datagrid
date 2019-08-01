@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C83E1A96-D872-4C27-AFAF-7D246DAD5C4A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DisplayRowIndex/Helper/CustomGridRowHeaderCellRenderer.cs">
+    <Files>
+      <File FileName="DisplayRowIndex/Info.plist" />
+      <File FileName="DisplayRowIndex/Helper/CustomGridRowHeaderCellRenderer.cs" Line="1" Column="7" />
+      <File FileName="DisplayRowIndex/packages.config" Line="1" Column="1" />
+      <File FileName="DisplayRowIndex/MyViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DisplayRowIndex automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.954ED523-1D14-4F4D-9B9F-64EDAA4912CC" />
+</Properties>
