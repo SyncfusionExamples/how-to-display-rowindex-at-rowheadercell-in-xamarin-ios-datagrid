@@ -35,8 +35,8 @@ Refer to the following link for more details:
 
 2. Register the license key in FinishedLaunching override method of AppDelegate.cs
 
-      public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
-      
+
+      public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)      
       {
       
       	//Register Syncfusion license
@@ -51,8 +51,7 @@ Refer to the following link for more details:
       	// make the window visible
       	Window.MakeKeyAndVisible();
       
-      	return true;
-        
+      	return true;        
       }
 
 Refer to this [link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#xamarinios) for more details.
